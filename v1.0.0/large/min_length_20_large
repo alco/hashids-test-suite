@@ -1,7 +1,7 @@
 # numbers that are too large for JS but may be supported in some
 # implementations
 
-# key: ''  min_len: 20  alphabet: <default>
+# salt: ''  min_len: 20  alphabet: <default>
 10000000000000000000000003 jjkjemmgee0lolon0np0j0ogmn
 10000000000000000000000009 pplpnmmknnd0g0godojdpdgkmd
 123456789098765432123456789 emmnljpdmdjllpddd0gdgmdlgok

@@ -1,7 +1,7 @@
 # numbers that are too large for JS but may be supported in some
 # implementations
 
-# key: ''  min_len: 0  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890~!@#$%^&*()_+"\][{}|;:/?.>,<あいうえおかきくけこさしすせそたちつてとまみむめもらちるれろはひふへほやゆよんをわなにぬねのабвгдежзийклмнопрстуфхцчшщьыъэюяАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯ'
+# salt: ''  min_len: 0  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890~!@#$%^&*()_+"\][{}|;:/?.>,<あいうえおかきくけこさしすせそたちつてとまみむめもらちるれろはひふへほやゆよんをわなにぬねのабвгдежзийклмнопрстуфхцчшщьыъэюяАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯ'
 10000000000000000000000000 $Щ$Рぬ|:хВ^фへし
 10000000000000000000000001 %Й%Рね;/んГ&らほ}
 12345678909876543212345678 к{わШもめ>ほわふ:рろ

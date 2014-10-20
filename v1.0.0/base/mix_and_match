@@ -1,4 +1,4 @@
-# key: '123./~_+'  min_len: 5  alphabet: 'Aünîcø∂émädñèsSß'
+# salt: '123./~_+'  min_len: 5  alphabet: 'Aünîcø∂émädñèsSß'
 [ 0 0 ] mñøsî
 7999 ñîøäé
 8783 øéééè

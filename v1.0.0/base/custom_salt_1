@@ -1,4 +1,4 @@
-# key: 'hello world'  min_len: 0  alphabet: <default>
+# salt: 'hello world'  min_len: 0  alphabet: <default>
 0 0A
 1 bp
 2 Wr

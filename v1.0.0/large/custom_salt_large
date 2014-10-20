@@ -1,7 +1,7 @@
 # numbers that are too large for JS but may be supported in some
 # implementations
 
-# key: '-->secret key, no salt<--'  min_len: 0  alphabet: <default>
+# salt: '-->secret key, no salt<--'  min_len: 0  alphabet: <default>
 10000000000000000000000004 eVaYQoXdkdnV7mVqv
 10000000000000000000000008 9lOkEGJ3o32lablxX
 123456789098765432123456780 PYvoo5B73qmg8pzdn

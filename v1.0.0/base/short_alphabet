@@ -1,4 +1,4 @@
-# key: ''  min_len: 0  alphabet: 'abc1029384756XYZ'
+# salt: ''  min_len: 0  alphabet: 'abc1029384756XYZ'
 0 9X
 1 35
 2 8Z
