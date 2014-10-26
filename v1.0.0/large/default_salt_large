@@ -1,7 +1,8 @@
+# salt: ''  min_len: 0  alphabet: <default>
+
 # numbers that are too large for JS but may be supported in some
 # implementations
 
-# salt: ''  min_len: 0  alphabet: <default>
 1000000000000000000000 gK1j6JZ0E93N33
 10000000000000000000000000 g57ZMg31O125Nx5Y3
 10000000000000000000000001 j2AZ6l37j782Nv2Ql
